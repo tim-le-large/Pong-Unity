@@ -1,4 +1,4 @@
-# le_pong with Unity
+# Pong with Unity
 
 This is an implementation of reinforcement learning (Q-learning) playing the game pong.
 
